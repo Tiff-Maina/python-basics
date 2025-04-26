@@ -1,6 +1,6 @@
 # python-basics
 
-**Name:** -Maina Tiffany Wanjiru  
+**Name:** Maina Tiffany Wanjiru  
 **Admission Number:** 189592  
 
 ## Description
