@@ -1,7 +1,7 @@
 # python-basics
 
-**Name:** -Maina Tiffany Wanjiru
-**Admission Number:** 189592
+-**Name:** -Maina Tiffany Wanjiru
+-**Admission Number:** 189592
 
 ## Description
 This repository contains basic Python practice tasks.
